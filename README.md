@@ -1,7 +1,5 @@
 #Machine Learning Nanodegree
 
-test
-
 ##Description
 This repository contains code projects from Udacity Machine Learning Nanodegree.
 
